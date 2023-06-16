@@ -1,21 +1,19 @@
-/*This is a cascading style sheet to format our webpage */ 
-h1
-{
-  color: blue;
+html {
+  height: 100%;
+  width: 100%;
 }
 
-h2
-{
-  color:green;
+.img {
+         display: block;
+         width:40px;
+         height: 40px;
+         padding: 0px 0px 0px 0px;
+         border: 0;
+         margin: 0;
+         outline: 0;
+         float: left;  
+         text-align: left;
 }
-
-ul
-{
-  color: red;
-}
-
-body
-{
-  font-family: "Times New Roman", sans-serif, "Arial Narrow"
-  text-align; justify
+.centre {
+  text-align: center;
 }
